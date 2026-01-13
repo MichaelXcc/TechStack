@@ -2,8 +2,6 @@
 type: concept
 tags: [kubernetes, pod, 核心概念]
 title: Pod概念
-created: 2026-01-04
-updated: 2026-01-04
 author: 云原生技术架构师
 status: 已掌握
 priority: 高

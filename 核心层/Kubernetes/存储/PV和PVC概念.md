@@ -2,7 +2,7 @@
 type: concept
 tags: [kubernetes, pv, pvc, 存储]
 title: PV和PVC概念
-author: 云原生技术架构师
+author: AI Infra / LLM Ops 基础设施
 status: 已掌握
 priority: 高
 related: ["Volume", "StorageClass", "Pod"]

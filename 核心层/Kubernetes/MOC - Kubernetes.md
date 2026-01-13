@@ -2,7 +2,7 @@
 type: MOC
 tags: [kubernetes, 核心层, MOC]
 title: Kubernetes核心概念MOC
-author: 云原生技术架构师
+author: AI Infra / LLM Ops 基础设施
 status: 已掌握
 priority: 高
 ---

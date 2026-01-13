@@ -2,7 +2,7 @@
 type: concept
 tags: [kubernetes, service, 核心概念]
 title: Service概念
-author: 云原生技术架构师
+author: AI Infra / LLM Ops 基础设施
 status: 已掌握
 priority: 高
 related: ["Pod", "Deployment", "Ingress"]

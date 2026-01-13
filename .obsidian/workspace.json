@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b703c6e52ac6c612",
+        "id": "11386afa10cdcc8e",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0ce3d9ed1195c1",
+            "id": "6b0a8e512d91d533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "核心层/Kubernetes/Service概念.md",
+                "file": "架构层/AI基础设施/03_调度与资源管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service概念"
+              "title": "03_调度与资源管理"
             }
           }
         ]
@@ -196,10 +196,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e0ce3d9ed1195c1",
+  "active": "6b0a8e512d91d533",
   "lastOpenFiles": [
-    "Kubernetes/网络/Ingress网络.md",
+    "架构层/AI基础设施/02_高性能计算集群设计.md",
+    "架构层/AI基础设施/01_AI Infra架构设计概览.md",
+    "架构层/AI基础设施/04_存储与数据架构.md",
+    "架构层/AI基础设施/03_调度与资源管理.md",
+    "核心层/云原生生态/Volcano/核心概念/Gang Scheduling.md",
+    "核心层/云原生生态/Volcano/部署指南/Volcano部署指南.md",
+    "基础层/Go/Go语言高级特性.md",
+    "基础层/CUDA/MOC - CUDA编程.md",
+    "架构层/AI基础设施/MOC - AI基础设施.md",
+    "架构层/AI基础设施",
+    "基础层/CUDA/02_核心编程/01_线程组织与执行.md",
+    "基础层/CUDA/01_基础概念/03_环境搭建与HelloCUDA.md",
+    "基础层/CUDA/01_基础概念/02_CUDA编程模型概述.md",
+    "基础层/CUDA/01_基础概念/01_GPU架构与异构计算.md",
     "核心层/Kubernetes/Service概念.md",
+    "Kubernetes/网络/Ingress网络.md",
     "核心层/Kubernetes/StatefulSet概念.md",
     "核心层/Kubernetes/Volume概念.md",
     "核心层/Kubernetes/ConfigMap概念.md",
@@ -215,24 +229,10 @@
     "核心层/Kubernetes/存储/PV和PVC概念.md",
     "核心层/Kubernetes/存储",
     "核心层/Kubernetes/网络",
-    "核心层/Kubernetes/数据平面/容器运行时概念.md",
-    "核心层/Kubernetes/数据平面/Kube-proxy概念.md",
-    "核心层/Kubernetes/数据平面/Kubelet概念.md",
     "核心层/Kubernetes/数据平面",
-    "核心层/Kubernetes/控制平面/etcd概念.md",
-    "核心层/Kubernetes/控制平面/Controller Manager概念.md",
-    "核心层/Kubernetes/控制平面/Scheduler概念.md",
-    "核心层/Kubernetes/控制平面/API Server概念.md",
     "核心层/Kubernetes/控制平面",
-    "README.md",
-    "2026-01-06.md",
-    "核心层/云原生生态/Volcano/架构设计/Volcano架构设计.md",
-    "核心层/云原生生态/Volcano/部署指南/Volcano部署指南.md",
-    "核心层/Kubernetes/Deployment概念.md",
-    "Deployment.md",
     "核心层/云原生生态/Volcano/高级特性",
     "核心层/云原生生态/Volcano/部署指南",
-    "核心层/云原生生态/Volcano/核心概念",
-    "核心层/云原生生态/Volcano/架构设计"
+    "核心层/云原生生态/Volcano/核心概念"
   ]
 }

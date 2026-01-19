@@ -40,6 +40,16 @@ author: AI Agent
 - [[04_存储与数据架构|存储与数据架构]]
   - 高性能Checkpoint存储
   - 数据湖与缓存系统
+
+### 分布式计算框架
+> 分布式AI计算与调度
+
+- [[Ray/MOC - Ray|Ray 分布式计算框架]]
+  - Ray Core 核心概念
+  - 集群架构与内存管理
+  - 生态系统 (Train, Serve, Data, Tune)
+
+### 推理服务
 - [[05_推理服务架构|推理服务架构]]
   - vLLM/TRT-LLM 优化
   - 连续批处理 (Continuous Batching)

@@ -198,6 +198,13 @@
   },
   "active": "6b0a8e512d91d533",
   "lastOpenFiles": [
+    "架构层/AI基础设施/Ray/05_Ray生态系统组件.md",
+    "架构层/AI基础设施/Ray/04_Ray对象存储与内存管理.md",
+    "架构层/AI基础设施/Ray/03_Ray集群架构.md",
+    "架构层/AI基础设施/Ray/02_Ray启动命令参数详解.md",
+    "架构层/AI基础设施/Ray/01_Ray概述与核心概念.md",
+    "架构层/AI基础设施/Ray/MOC - Ray.md",
+    "架构层/AI基础设施/Ray",
     "基础层/Python/内存管理.md",
     "基础层/Python/类型提示.md",
     "基础层/Python/并发编程.md",
@@ -219,12 +226,6 @@
     "基础层/CUDA/02_核心编程/01_线程组织与执行.md",
     "基础层/CUDA/01_基础概念/03_环境搭建与HelloCUDA.md",
     "基础层/CUDA/01_基础概念/02_CUDA编程模型概述.md",
-    "基础层/CUDA/01_基础概念/01_GPU架构与异构计算.md",
-    "核心层/Kubernetes/Service概念.md",
-    "Kubernetes/网络/Ingress网络.md",
-    "核心层/Kubernetes/StatefulSet概念.md",
-    "核心层/Kubernetes/Volume概念.md",
-    "核心层/Kubernetes/ConfigMap概念.md",
     "Kubernetes/网络",
     "Kubernetes",
     "核心层/Kubernetes/存储",
@@ -232,7 +233,6 @@
     "核心层/Kubernetes/数据平面",
     "核心层/Kubernetes/控制平面",
     "核心层/云原生生态/Volcano/高级特性",
-    "核心层/云原生生态/Volcano/部署指南",
-    "核心层/云原生生态/Volcano/核心概念"
+    "核心层/云原生生态/Volcano/部署指南"
   ]
 }

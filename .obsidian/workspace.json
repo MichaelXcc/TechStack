@@ -211,6 +211,12 @@
   },
   "active": "6cbb118c2c480eb6",
   "lastOpenFiles": [
+    "架构层/AI基础设施/Volcano/04_拓扑感知调度实战.md",
+    "架构层/AI基础设施/Volcano/03_HyperNode配置与自动发现.md",
+    "架构层/AI基础设施/Volcano/02_网络拓扑感知调度原理.md",
+    "架构层/AI基础设施/Volcano/01_Volcano概述与核心概念.md",
+    "架构层/AI基础设施/Volcano/MOC - Volcano.md",
+    "架构层/AI基础设施/Volcano",
     "架构层/AI基础设施/HAMi/06_HAMi实战案例.md",
     "架构层/AI基础设施/HAMi/05_HAMi调度策略.md",
     "架构层/AI基础设施/HAMi/04_GPU资源隔离与共享.md",
@@ -234,18 +240,12 @@
     "基础层/Python/装饰器.md",
     "基础层/Python/元类.md",
     "基础层/Python/MOC - Python语言.md",
-    "架构层/AI基础设施/02_高性能计算集群设计.md",
-    "架构层/AI基础设施/01_AI Infra架构设计概览.md",
-    "架构层/AI基础设施/04_存储与数据架构.md",
-    "架构层/AI基础设施/03_调度与资源管理.md",
-    "核心层/云原生生态/Volcano/核心概念/Gang Scheduling.md",
     "架构层/AI基础设施",
     "Kubernetes/网络",
     "Kubernetes",
     "核心层/Kubernetes/存储",
     "核心层/Kubernetes/网络",
     "核心层/Kubernetes/数据平面",
-    "核心层/Kubernetes/控制平面",
-    "核心层/云原生生态/Volcano/高级特性"
+    "核心层/Kubernetes/控制平面"
   ]
 }

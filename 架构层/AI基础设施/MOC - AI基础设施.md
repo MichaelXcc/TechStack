@@ -57,6 +57,14 @@ author: AI Agent
   - 调度策略与拓扑感知
   - 多租户 GPU 管理
 
+### 批量调度与拓扑感知
+> 高性能 AI 任务调度
+
+- [[Volcano/MOC - Volcano|Volcano 批量调度系统]]
+  - Gang Scheduling 与 Queue 管理
+  - 网络拓扑感知调度 (HyperNode)
+  - 分布式训练调度优化
+
 ### 推理服务
 - [[05_推理服务架构|推理服务架构]]
   - vLLM/TRT-LLM 优化

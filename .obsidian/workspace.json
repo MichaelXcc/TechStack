@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "03_调度与资源管理"
             }
+          },
+          {
+            "id": "6cbb118c2c480eb6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,20 +197,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b0a8e512d91d533",
+  "active": "6cbb118c2c480eb6",
   "lastOpenFiles": [
+    "架构层/AI基础设施/HAMi/06_HAMi实战案例.md",
+    "架构层/AI基础设施/HAMi/05_HAMi调度策略.md",
+    "架构层/AI基础设施/HAMi/04_GPU资源隔离与共享.md",
+    "架构层/AI基础设施/HAMi/03_HAMi安装与配置.md",
+    "架构层/AI基础设施/HAMi/02_HAMi架构与组件.md",
+    "架构层/AI基础设施/HAMi/01_HAMi概述与核心概念.md",
+    "架构层/AI基础设施/HAMi/MOC - HAMi.md",
+    "架构层/AI基础设施/HAMi",
     "架构层/AI基础设施/Ray/05_Ray生态系统组件.md",
     "架构层/AI基础设施/Ray/04_Ray对象存储与内存管理.md",
     "架构层/AI基础设施/Ray/03_Ray集群架构.md",
@@ -218,21 +239,13 @@
     "架构层/AI基础设施/04_存储与数据架构.md",
     "架构层/AI基础设施/03_调度与资源管理.md",
     "核心层/云原生生态/Volcano/核心概念/Gang Scheduling.md",
-    "核心层/云原生生态/Volcano/部署指南/Volcano部署指南.md",
-    "基础层/Go/Go语言高级特性.md",
-    "基础层/CUDA/MOC - CUDA编程.md",
-    "架构层/AI基础设施/MOC - AI基础设施.md",
     "架构层/AI基础设施",
-    "基础层/CUDA/02_核心编程/01_线程组织与执行.md",
-    "基础层/CUDA/01_基础概念/03_环境搭建与HelloCUDA.md",
-    "基础层/CUDA/01_基础概念/02_CUDA编程模型概述.md",
     "Kubernetes/网络",
     "Kubernetes",
     "核心层/Kubernetes/存储",
     "核心层/Kubernetes/网络",
     "核心层/Kubernetes/数据平面",
     "核心层/Kubernetes/控制平面",
-    "核心层/云原生生态/Volcano/高级特性",
-    "核心层/云原生生态/Volcano/部署指南"
+    "核心层/云原生生态/Volcano/高级特性"
   ]
 }

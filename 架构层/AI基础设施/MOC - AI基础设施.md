@@ -49,6 +49,14 @@ author: AI Agent
   - 集群架构与内存管理
   - 生态系统 (Train, Serve, Data, Tune)
 
+### GPU 虚拟化与共享
+> 细粒度 GPU 资源管理
+
+- [[HAMi/MOC - HAMi|HAMi GPU 虚拟化中间件]]
+  - GPU 共享与资源隔离
+  - 调度策略与拓扑感知
+  - 多租户 GPU 管理
+
 ### 推理服务
 - [[05_推理服务架构|推理服务架构]]
   - vLLM/TRT-LLM 优化

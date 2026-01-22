@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "03_调度与资源管理"
             }
-          },
-          {
-            "id": "6cbb118c2c480eb6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cbb118c2c480eb6",
+  "active": "6b0a8e512d91d533",
   "lastOpenFiles": [
     "架构层/AI基础设施/Volcano/04_拓扑感知调度实战.md",
     "架构层/AI基础设施/Volcano/03_HyperNode配置与自动发现.md",

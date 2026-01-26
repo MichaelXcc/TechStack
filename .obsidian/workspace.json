@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前瞻层/AI编码工具/Vibe Coding提效指南.md",
+                "file": "前瞻层/AI编码工具/MOC - AI编码工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vibe Coding提效指南"
+              "title": "MOC - AI编码工具"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "6b0a8e512d91d533",
   "lastOpenFiles": [
-    "前瞻层/AI编码工具/AI编码工具对比分析.md",
     "前瞻层/AI编码工具/Vibe Coding提效指南.md",
+    "前瞻层/AI编码工具/AI编码工具对比分析.md",
     "架构层/AI基础设施/AI-Infra核心架构/01_AI Infra架构设计概览.md",
     "前瞻层/AI编码工具/MOC - AI编码工具.md",
     "前瞻层/AI编码工具",

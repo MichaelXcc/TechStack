@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构层/AI基础设施/03_调度与资源管理.md",
+                "file": "前瞻层/AI编码工具/Vibe Coding提效指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_调度与资源管理"
+              "title": "Vibe Coding提效指南"
             }
           }
         ]
@@ -198,6 +198,14 @@
   },
   "active": "6b0a8e512d91d533",
   "lastOpenFiles": [
+    "前瞻层/AI编码工具/AI编码工具对比分析.md",
+    "前瞻层/AI编码工具/Vibe Coding提效指南.md",
+    "架构层/AI基础设施/AI-Infra核心架构/01_AI Infra架构设计概览.md",
+    "前瞻层/AI编码工具/MOC - AI编码工具.md",
+    "前瞻层/AI编码工具",
+    "my-test",
+    "核心层/云原生生态/Volcano/实践案例/AI训练调度.md",
+    "核心层/云原生生态/Volcano/核心概念/Queue.md",
     "架构层/AI基础设施/Volcano/04_拓扑感知调度实战.md",
     "架构层/AI基础设施/Volcano/03_HyperNode配置与自动发现.md",
     "架构层/AI基础设施/Volcano/02_网络拓扑感知调度原理.md",
@@ -221,18 +229,10 @@
     "架构层/AI基础设施/Ray",
     "基础层/Python/内存管理.md",
     "基础层/Python/类型提示.md",
-    "基础层/Python/并发编程.md",
-    "基础层/Python/上下文管理器.md",
-    "基础层/Python/生成器与迭代器.md",
-    "基础层/Python/装饰器.md",
-    "基础层/Python/元类.md",
-    "基础层/Python/MOC - Python语言.md",
     "架构层/AI基础设施",
     "Kubernetes/网络",
     "Kubernetes",
     "核心层/Kubernetes/存储",
-    "核心层/Kubernetes/网络",
-    "核心层/Kubernetes/数据平面",
-    "核心层/Kubernetes/控制平面"
+    "核心层/Kubernetes/网络"
   ]
 }

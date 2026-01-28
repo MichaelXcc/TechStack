@@ -11,10 +11,14 @@
             "id": "aee34637b8c56a72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Frontier/AI-CodingTools/AI编码技能评估体系.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AI编码技能评估体系"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "548bc1f1271c1967",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontier/AI-CodingTools/AI编码技能评估体系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "AI编码技能评估体系 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontier/AI-CodingTools/AI编码技能评估体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "AI编码技能评估体系 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Frontier/AI-CodingTools/AI编码技能评估体系.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "AI编码技能评估体系 的大纲"
             }
           },
           {
@@ -191,6 +198,18 @@
   },
   "active": "aee34637b8c56a72",
   "lastOpenFiles": [
+    "Frontier/AI-CodingTools/Agentic Coding实践指南.md",
+    "Frontier/AI-CodingTools/AI编码工具对比分析.md",
+    "Frontier/AI-CodingTools/AI编码工具ROI分析报告.md",
+    "Frontier/AI-CodingTools/AI编码技能评估体系.md",
+    "Frontier/AI-CodingTools/Vibe Coding提效指南.md",
+    "Frontier/AI-CodingTools/MOC - AI编码工具.md",
+    "Frontier/AI-CodingTools/Agent与Skill演进分析.md",
+    "Frontier/AI-CodingTools/Agent-MCP-Skill核心概念.md",
+    "Frontier/AI-CodingTools/AI编码工程化落地指南.md",
+    "00-知识体系总览MOC.md",
+    "README.md",
+    "Frontier/AI-CodingTools/MCP协议与工具扩展.md",
     "Frontier/AI-CodingTools/prompts/概念解释.md",
     "Frontier/AI-CodingTools/prompts/技术文档生成.md",
     "Frontier/AI-CodingTools/prompts/代码重构.md",
@@ -199,13 +218,6 @@
     "Frontier/AI-CodingTools/prompts/Shell命令.md",
     "Frontier/AI-CodingTools/prompts/MOC - Prompt收藏.md",
     "Frontier/AI-CodingTools/prompts",
-    "Frontier/AI-CodingTools/Vibe Coding提效指南.md",
-    "Frontier/AI-CodingTools/MOC - AI编码工具.md",
-    "Frontier/AI-CodingTools/MCP协议与工具扩展.md",
-    "Frontier/AI-CodingTools/Agent与Skill演进分析.md",
-    "Frontier/AI-CodingTools/Agentic Coding实践指南.md",
-    "Frontier/AI-CodingTools/AI编码工具对比分析.md",
-    "Frontier/AI-CodingTools/Agent-MCP-Skill核心概念.md",
     "Frontier/RAG",
     "Frontier/MOC - 前瞻层.md",
     "Frontier/AI-K8s-Integration",
@@ -217,15 +229,10 @@
     "Decision/RiskAndCost/MOC - 风险与成本.md",
     "Decision/ADR/ADR-001-容器运行时选择.md",
     "Decision/ADR/MOC - ADR.md",
-    "Decision/ADR/ADR-004-GPU调度方案选型.md",
-    "Decision/MOC - 决策层.md",
     "Decision/TechSelection",
     "Decision/Templates",
     "Decision/RiskAndCost",
     "Decision/ADR",
-    "Decision",
-    "Architecture/AI-Infrastructure/Volcano/MOC - Volcano.md",
-    "Architecture/AI-Infrastructure/Volcano/04_拓扑感知调度实战.md",
-    "Architecture/AI-Infrastructure/Volcano/03_HyperNode配置与自动发现.md"
+    "Decision"
   ]
 }

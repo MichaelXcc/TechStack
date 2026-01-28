@@ -3,14 +3,11 @@ type: moc
 tags: [moc, 总览]
 title: 知识体系总览
 ---
-
+> 独学而无友，则孤陋而寡闻。-- 《礼记・学记》
+> He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.（别人从你这里获得思想，并不会削弱你的思想，就像别人借你的蜡烛点燃自己的，你的蜡烛并不会因此变暗）
+    -- 托马斯・杰斐逊（美国第三任总统）
+> 费曼学习法（以教促学，通过 “教别人” 倒逼自己梳理知识、发现盲区、强化记忆，记忆留存率可达 90%（远高于被动阅读的 5%）。
 # 知识体系总览
-
-## 🌟 职业转型目标
-
-- **技术架构**：从代码实现到系统设计，培养体系化思维
-- **技术管理**：从个人贡献者到团队领导者，提升决策能力
-- **AI+云原生**：探索智能技术与云原生的融合创新
 
 ## 📚 知识分层结构
 

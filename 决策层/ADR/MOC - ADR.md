@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, ADR, 架构决策]
 title: ADR MOC
-created: 2026-01-28
-updated: 2026-01-28
 ---
 
 # 架构决策记录 (ADR)

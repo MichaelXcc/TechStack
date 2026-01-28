@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, Ray, 内存管理, 存储]
 title: Ray 对象存储与内存管理
-created: 2026-01-19
-updated: 2026-01-19
 author: AI Agent
 ---
 

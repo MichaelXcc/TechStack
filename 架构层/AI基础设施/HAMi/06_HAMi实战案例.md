@@ -2,8 +2,6 @@
 type: practice
 tags: [架构层, AIInfra, HAMi, 实战案例, Kubernetes]
 title: HAMi 实战案例
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

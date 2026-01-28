@@ -2,8 +2,6 @@
 type: analysis
 tags: [前瞻层, AI, 编码工具, 对比分析, Copilot, Cursor, Claude]
 title: AI编码工具对比分析
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

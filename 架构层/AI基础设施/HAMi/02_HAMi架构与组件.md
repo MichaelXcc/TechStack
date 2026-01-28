@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, HAMi, 架构设计, Kubernetes]
 title: HAMi 架构与组件
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

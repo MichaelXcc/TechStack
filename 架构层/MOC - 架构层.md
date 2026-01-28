@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层]
 title: 架构层MOC
-created: 2026-01-04
-updated: 2026-01-13
 author: 云原生技术架构师
 ---
 

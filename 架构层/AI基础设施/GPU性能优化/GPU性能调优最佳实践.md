@@ -2,8 +2,6 @@
 type: guide
 tags: [架构层, AIInfra, GPU, 性能优化, 最佳实践]
 title: GPU性能调优最佳实践
-created: 2026-01-22
-updated: 2026-01-22
 author: AI Agent
 status: 学习中
 priority: 高

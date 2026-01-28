@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 前瞻层, AI, 编码工具, vibe-coding]
 title: AI编码工具MOC
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

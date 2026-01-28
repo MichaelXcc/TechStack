@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 核心层, 云原生]
 title: 核心层MOC
-created: 2026-01-04
-updated: 2026-01-04
 author: 云原生技术架构师
 ---
 

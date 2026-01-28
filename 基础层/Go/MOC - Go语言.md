@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, go, programming-language]
 title: Go语言MOC
-created: 2026-01-09
-updated: 2026-01-09
 author: 云原生技术架构师
 status: 学习中
 priority: 高

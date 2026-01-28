@@ -2,8 +2,6 @@
 type: concept
 tags: [前瞻层, AI, Agent, MCP, Skill, 编码工具, Agentic-Coding]
 title: Agent-MCP-Skill核心概念
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

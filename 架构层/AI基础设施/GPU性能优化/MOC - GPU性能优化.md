@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层, AIInfra, GPU, 性能优化]
 title: GPU性能优化 MOC
-created: 2026-01-22
-updated: 2026-01-22
 author: AI Agent
 ---
 

@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层, AIInfra, HAMi, GPU虚拟化]
 title: HAMi MOC
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

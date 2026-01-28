@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层, AIInfra, 推理服务, LLM]
 title: 推理服务 MOC
-created: 2026-01-22
-updated: 2026-01-22
 author: AI Agent
 ---
 

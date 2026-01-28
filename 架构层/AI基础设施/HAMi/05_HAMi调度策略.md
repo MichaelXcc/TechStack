@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, HAMi, 调度, Kubernetes]
 title: HAMi 调度策略
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

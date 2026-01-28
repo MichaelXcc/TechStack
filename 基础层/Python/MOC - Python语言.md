@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, python, 基础层]
 title: Python语言MOC
-created: 2026-01-14
-updated: 2026-01-14
 author: 云原生技术架构师
 ---
 

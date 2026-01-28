@@ -2,8 +2,6 @@
 type: guide
 tags: [架构层, AIInfra, HAMi, 安装部署, Kubernetes, Helm]
 title: HAMi 安装与配置
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

@@ -2,8 +2,6 @@
 type: architecture
 tags: [volcano, architecture, kubernetes]
 title: Volcano架构设计
-created: 2026-01-06
-updated: 2026-01-06
 author: 云原生技术架构师
 status: 学习中
 priority: 高

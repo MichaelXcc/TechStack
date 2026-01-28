@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层, AIInfra, Ray, 分布式计算]
 title: Ray 分布式计算框架 MOC
-created: 2026-01-19
-updated: 2026-01-19
 author: AI Agent
 ---
 

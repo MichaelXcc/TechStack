@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, Volcano, 批量调度, Kubernetes]
 title: Volcano 概述与核心概念
-created: 2026-01-21
-updated: 2026-01-21
 author: AI Agent
 ---
 

@@ -2,8 +2,6 @@
 type: guide
 tags: [架构层, AIInfra, Volcano, HyperNode, 拓扑配置]
 title: HyperNode 配置与自动发现
-created: 2026-01-21
-updated: 2026-01-21
 author: AI Agent
 ---
 

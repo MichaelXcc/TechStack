@@ -2,7 +2,6 @@
 type: template
 tags: [模板, ADR]
 title: ADR模板
-created: 2026-01-28
 ---
 
 # ADR-XXX: [决策标题]

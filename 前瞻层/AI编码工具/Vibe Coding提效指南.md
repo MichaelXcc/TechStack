@@ -2,8 +2,6 @@
 type: guide
 tags: [前瞻层, AI, vibe-coding, 提效, 最佳实践]
 title: Vibe Coding提效指南
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

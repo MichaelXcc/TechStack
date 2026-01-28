@@ -2,8 +2,6 @@
 type: case-study
 tags: [volcano, case-study, kubernetes]
 title: Volcano实践案例
-created: 2026-01-06
-updated: 2026-01-06
 author: 云原生技术架构师
 status: 学习中
 priority: 高

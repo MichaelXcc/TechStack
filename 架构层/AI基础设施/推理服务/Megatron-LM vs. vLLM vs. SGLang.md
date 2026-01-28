@@ -2,8 +2,6 @@
 type: comparison
 tags: [Megatron, vLLM, SGLang, 推理服务, 大模型部署]
 title: Megatron-LM vs. vLLM vs. SGLang 对比分析
-created: 2026-01-04
-updated: 2026-01-04
 author: 云原生技术架构师
 status: 已掌握
 priority: 高

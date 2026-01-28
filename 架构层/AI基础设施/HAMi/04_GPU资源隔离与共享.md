@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, HAMi, GPU隔离, vCUDA]
 title: GPU 资源隔离与共享
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

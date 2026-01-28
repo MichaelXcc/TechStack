@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, HAMi, GPU虚拟化, Kubernetes]
 title: HAMi 概述与核心概念
-created: 2026-01-20
-updated: 2026-01-20
 author: AI Agent
 ---
 

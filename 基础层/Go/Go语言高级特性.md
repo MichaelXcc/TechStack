@@ -2,8 +2,6 @@
 type: tutorial
 tags: [go, advanced-features, tutorial]
 title: Go语言高级特性
-created: 2026-01-09
-updated: 2026-01-09
 author: 云原生技术架构师
 status: 学习中
 priority: 高

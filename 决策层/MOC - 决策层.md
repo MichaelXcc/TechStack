@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 决策层, 技术决策, ADR]
 title: 决策层MOC
-created: 2026-01-28
-updated: 2026-01-28
 author: 云原生技术架构师
 ---
 

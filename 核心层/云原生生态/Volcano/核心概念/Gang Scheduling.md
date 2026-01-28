@@ -2,8 +2,6 @@
 type: concept
 tags: [volcano, gang-scheduling, kubernetes]
 title: Gang Scheduling
-created: 2026-01-06
-updated: 2026-01-06
 author: 云原生技术架构师
 status: 学习中
 priority: 高

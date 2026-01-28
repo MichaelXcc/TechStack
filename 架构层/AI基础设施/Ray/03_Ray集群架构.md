@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, Ray, 分布式系统, 架构]
 title: Ray 集群架构
-created: 2026-01-19
-updated: 2026-01-19
 author: AI Agent
 ---
 

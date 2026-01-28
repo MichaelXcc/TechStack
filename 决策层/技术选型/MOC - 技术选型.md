@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 技术选型, 决策]
 title: 技术选型MOC
-created: 2026-01-28
-updated: 2026-01-28
 ---
 
 # 技术选型 - 系统化的选型方法论

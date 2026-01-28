@@ -2,8 +2,6 @@
 type: moc
 tags: [volcano, batch-scheduling, kubernetes, cncf]
 title: Volcano专栏总览
-created: 2026-01-06
-updated: 2026-01-06
 author: 云原生技术架构师
 status: 学习中
 priority: 高

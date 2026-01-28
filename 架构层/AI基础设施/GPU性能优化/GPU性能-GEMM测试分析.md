@@ -2,8 +2,6 @@
 type: analysis
 tags: [gpu, performance, gemm, tflops]
 title: GPU性能分析 - GEMM测试中的TFLOPS差异
-created: 2026-01-09
-updated: 2026-01-09
 author: 云原生技术架构师
 status: 学习中
 priority: 高

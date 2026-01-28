@@ -2,8 +2,6 @@
 type: framework
 tags: [Megatron, 大模型, 推理服务, GPU, 分布式训练]
 title: Megatron推理服务
-created: 2026-01-04
-updated: 2026-01-04
 author: 云原生技术架构师
 status: 学习中
 priority: 高

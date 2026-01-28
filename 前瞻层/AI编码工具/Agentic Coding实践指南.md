@@ -2,8 +2,6 @@
 type: guide
 tags: [前瞻层, AI, Agent, Agentic-Coding, 编码工具, 最佳实践]
 title: Agentic Coding实践指南
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

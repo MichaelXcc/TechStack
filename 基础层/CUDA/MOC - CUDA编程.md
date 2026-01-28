@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, CUDA, 基础层]
 title: CUDA编程MOC
-created: 2026-01-13
-updated: 2026-01-13
 author: AI Assistant
 ---
 

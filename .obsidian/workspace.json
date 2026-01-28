@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前瞻层/AI编码工具/MOC - AI编码工具.md",
+                "file": "前瞻层/AI编码工具/Vibe Coding提效指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC - AI编码工具"
+              "title": "Vibe Coding提效指南"
             }
           }
         ]
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f14e26305f6a6f0",
+  "active": "aee34637b8c56a72",
   "lastOpenFiles": [
+    "前瞻层/AI编码工具/MOC - AI编码工具.md",
     "决策层/模板/技术选型报告模板.md",
     "决策层/ADR/ADR-004-GPU调度方案选型.md",
     "决策层/ADR/ADR-001-容器运行时选择.md",
@@ -228,7 +229,6 @@
     "前瞻层/AI编码工具/prompts",
     "README.md",
     "00-知识体系总览MOC.md",
-    "前瞻层/AI编码工具/MOC - AI编码工具.md",
     "前瞻层/AI编码工具/AI编码工具对比分析.md",
     "架构层/AI基础设施/AI-Infra核心架构/01_AI Infra架构设计概览.md",
     "前瞻层/AI编码工具",

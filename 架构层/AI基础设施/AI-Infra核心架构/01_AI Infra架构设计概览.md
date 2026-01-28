@@ -2,8 +2,6 @@
 type: concept
 tags: [架构层, AIInfra, 系统设计]
 title: AI Infra 架构设计概览
-created: 2026-01-13
-updated: 2026-01-13
 author: AI Agent
 ---
 

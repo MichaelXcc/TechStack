@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 架构层, AIInfra]
 title: AI基础设施MOC
-created: 2026-01-13
-updated: 2026-01-22
 author: AI Agent
 ---
 

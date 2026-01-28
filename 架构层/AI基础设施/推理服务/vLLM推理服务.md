@@ -2,8 +2,6 @@
 type: framework
 tags: [架构层, AIInfra, 推理服务, vLLM, LLM]
 title: vLLM推理服务
-created: 2026-01-22
-updated: 2026-01-22
 author: AI Agent
 status: 学习中
 priority: 高

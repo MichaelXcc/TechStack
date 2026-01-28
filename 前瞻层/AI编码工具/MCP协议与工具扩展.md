@@ -2,8 +2,6 @@
 type: guide
 tags: [前瞻层, AI, MCP, Skill, 编码工具, 工具扩展, 协议]
 title: MCP协议与工具扩展
-created: 2026-01-26
-updated: 2026-01-26
 author: 云原生技术架构师
 ---
 

@@ -2,8 +2,6 @@
 type: reference
 tags: [架构层, AIInfra, Ray, 命令行, 运维]
 title: Ray 启动命令参数详解
-created: 2026-01-19
-updated: 2026-01-19
 author: AI Agent
 ---
 

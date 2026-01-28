@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 前瞻层, AI]
 title: 前瞻层MOC
-created: 2026-01-04
-updated: 2026-01-04
 author: 云原生技术架构师
 ---
 

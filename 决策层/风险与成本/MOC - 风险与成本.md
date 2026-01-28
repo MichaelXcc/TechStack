@@ -2,8 +2,6 @@
 type: moc
 tags: [moc, 风险评估, 成本分析, 技术债务]
 title: 风险与成本MOC
-created: 2026-01-28
-updated: 2026-01-28
 ---
 
 # 风险与成本分析

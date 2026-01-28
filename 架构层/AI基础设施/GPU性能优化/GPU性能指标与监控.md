@@ -2,8 +2,6 @@
 type: guide
 tags: [架构层, AIInfra, GPU, 监控, 性能]
 title: GPU性能指标与监控
-created: 2026-01-22
-updated: 2026-01-22
 author: AI Agent
 status: 学习中
 priority: 高

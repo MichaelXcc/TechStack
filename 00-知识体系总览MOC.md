@@ -2,9 +2,6 @@
 type: moc
 tags: [moc, 总览]
 title: 知识体系总览
-created: 2026-01-04
-updated: 2026-01-19
-author: 云原生技术架构师
 ---
 
 # 知识体系总览
@@ -17,53 +14,53 @@ author: 云原生技术架构师
 
 ## 📚 知识分层结构
 
-### 1. 基础层 - 编程语言与底层原理
+### 1. Foundation - 编程语言与底层原理
 
 > 夯实技术基础，理解底层运行机制
 
-- [[基础层/MOC - 基础层|基础层MOC]]
-  - [[基础层/Go/MOC - Go语言|Go语言]] - Go 语言核心特性
-  - [[基础层/Python/MOC - Python语言|Python语言]] - 元类、装饰器、生成器、并发编程等
-  - [[基础层/CUDA/MOC - CUDA编程|CUDA编程]] - GPU 编程与性能优化
+- [[Foundation/MOC - 基础层|Foundation MOC]]
+  - [[Foundation/Go/MOC - Go语言|Go语言]] - Go 语言核心特性
+  - [[Foundation/Python/MOC - Python语言|Python语言]] - 元类、装饰器、生成器、并发编程等
+  - [[Foundation/CUDA/MOC - CUDA编程|CUDA编程]] - GPU 编程与性能优化
 
-### 2. 核心层 - 云原生技术栈
+### 2. Core - 云原生技术栈
 
 > 深入Kubernetes生态，掌握核心技术
 
-- [[核心层/MOC - 核心层|核心层MOC]]
-  - [[核心层/Kubernetes/MOC - Kubernetes|Kubernetes]] - 容器编排核心
-  - [[核心层/Operator/MOC - Operator开发|Operator开发]] - 自定义控制器
-  - [[核心层/云原生生态/MOC - 云原生生态|云原生生态]] - 服务网格、监控等
+- [[Core/MOC - 核心层|Core MOC]]
+  - [[Core/Kubernetes/MOC - Kubernetes|Kubernetes]] - 容器编排核心
+  - [[Core/Operator/MOC - Operator开发|Operator开发]] - 自定义控制器
+  - [[Core/CloudNativeEcosystem/MOC - 云原生生态|云原生生态]] - 服务网格、监控等
 
-### 3. 架构层 - 系统设计与架构思维
+### 3. Architecture - 系统设计与架构思维
 
 > 培养架构设计能力，理解分布式系统本质
 
-- [[架构层/MOC - 架构层|架构层MOC]]
-  - [[架构层/AI基础设施/MOC - AI基础设施|AI基础设施]] - AI Infra 架构设计
-    - [[架构层/AI基础设施/Ray/MOC - Ray|Ray分布式计算]] - Task、Actor、生态系统
-  - [[架构层/架构思维/MOC - 架构思维|架构思维]] - 架构设计方法论
-  - [[架构层/分布式系统/MOC - 分布式系统|分布式系统]] - 分布式理论与实践
-  - [[架构层/系统设计/MOC - 系统设计|系统设计]] - 大规模系统设计
-  - [[架构层/高可用/MOC - 高可用设计|高可用设计]] - 容错与可靠性
+- [[Architecture/MOC - 架构层|Architecture MOC]]
+  - [[Architecture/AI-Infrastructure/MOC - AI基础设施|AI基础设施]] - AI Infra 架构设计
+    - [[Architecture/AI-Infrastructure/Ray/MOC - Ray|Ray分布式计算]] - Task、Actor、生态系统
+  - [[Architecture/ArchitecturalThinking/MOC - 架构思维|架构思维]] - 架构设计方法论
+  - [[Architecture/DistributedSystems/MOC - 分布式系统|分布式系统]] - 分布式理论与实践
+  - [[Architecture/SystemDesign/MOC - 系统设计|系统设计]] - 大规模系统设计
+  - [[Architecture/HighAvailability/MOC - 高可用设计|高可用设计]] - 容错与可靠性
 
-### 4. 前瞻层 - AI与云原生融合
+### 4. Frontier - AI与云原生融合
 
 > 探索前沿技术，把握未来趋势
 
-- [[前瞻层/MOC - 前瞻层|前瞻层MOC]]
-  - [[前瞻层/AI智能体/MOC - AI智能体|AI智能体]] - GPU 性能分析、Megatron-LM 推理
-  - [[前瞻层/RAG/MOC - RAG技术|RAG技术]] - 检索增强生成
-  - [[前瞻层/AI与K8s结合/MOC - AI与K8s结合|AI与K8s结合]] - AI on Kubernetes
+- [[Frontier/MOC - 前瞻层|Frontier MOC]]
+  - [[Frontier/AI-CodingTools/MOC - AI编码工具|AI编码工具]] - AI 辅助编程
+  - [[Frontier/RAG/MOC - RAG技术|RAG技术]] - 检索增强生成
+  - [[Frontier/AI-K8s-Integration/MOC - AI与K8s结合|AI与K8s结合]] - AI on Kubernetes
 
-### 5. 决策层 - 技术决策与架构选型
+### 5. Decision - 技术决策与架构选型
 
 > 系统化的技术决策方法论，记录和追踪重要架构决策
 
-- [[决策层/MOC - 决策层|决策层MOC]]
-  - [[决策层/技术选型/MOC - 技术选型|技术选型]] - 技术评估与选型框架
-  - [[决策层/ADR/MOC - ADR|ADR]] - 架构决策记录
-  - [[决策层/风险与成本/MOC - 风险与成本|风险与成本]] - 风险评估与成本分析
+- [[Decision/MOC - 决策层|Decision MOC]]
+  - [[Decision/TechSelection/MOC - 技术选型|技术选型]] - 技术评估与选型框架
+  - [[Decision/ADR/MOC - ADR|ADR]] - 架构决策记录
+  - [[Decision/RiskAndCost/MOC - 风险与成本|风险与成本]] - 风险评估与成本分析
 
 ## 🔗 关键主题链接
 
@@ -93,13 +90,13 @@ LIMIT 10
 
 ## 📊 内容统计
 
-| 层级   | 主要内容                         | 文档数 |
-| ------ | -------------------------------- | ------ |
-| 基础层 | Go、Python、CUDA                 | 23+    |
-| 核心层 | Kubernetes、Operator、云原生生态 | 34+    |
-| 架构层 | AI基础设施、Ray、分布式系统      | 15+    |
-| 前瞻层 | AI智能体、RAG、AI&K8s            | 4+     |
-| 决策层 | 技术选型、ADR、风险成本          | 10+    |
+| 层级         | 主要内容                         | 文档数 |
+| ------------ | -------------------------------- | ------ |
+| Foundation   | Go、Python、CUDA                 | 23+    |
+| Core         | Kubernetes、Operator、云原生生态 | 34+    |
+| Architecture | AI基础设施、Ray、分布式系统      | 15+    |
+| Frontier     | AI编码工具、RAG、AI&K8s          | 10+    |
+| Decision     | 技术选型、ADR、风险成本          | 10+    |
 
 ## 📝 使用指南
 

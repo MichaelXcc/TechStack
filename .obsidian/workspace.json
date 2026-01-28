@@ -11,14 +11,10 @@
             "id": "aee34637b8c56a72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前瞻层/AI编码工具/Vibe Coding提效指南.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vibe Coding提效指南"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础层/Go/Go语言高级特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Go语言高级特性 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础层/Go/Go语言高级特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Go语言高级特性 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础层/Go/Go语言高级特性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Go语言高级特性 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -176,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,41 +191,41 @@
   },
   "active": "aee34637b8c56a72",
   "lastOpenFiles": [
-    "前瞻层/AI编码工具/MOC - AI编码工具.md",
-    "决策层/模板/技术选型报告模板.md",
-    "决策层/ADR/ADR-004-GPU调度方案选型.md",
-    "决策层/ADR/ADR-001-容器运行时选择.md",
-    "决策层/模板/ADR模板.md",
-    "决策层/风险与成本/MOC - 风险与成本.md",
-    "决策层/ADR/MOC - ADR.md",
-    "决策层/技术选型/MOC - 技术选型.md",
-    "决策层/模板",
-    "决策层/风险与成本",
-    "决策层/ADR",
-    "决策层/技术选型",
-    "前瞻层/AI编码工具/Agent-MCP-Skill核心概念.md",
-    "决策层/MOC - 决策层.md",
-    "管理层/MOC - 管理层.md",
-    "决策层/技术管理",
-    "决策层/技术决策",
-    "决策层/MOC - 管理层.md",
-    "决策层/团队建设",
-    "决策层",
-    "前瞻层/AI编码工具/Vibe Coding提效指南.md",
-    "前瞻层/AI编码工具/prompts/代码生成.md",
-    "前瞻层/AI编码工具/prompts/代码解释.md",
-    "前瞻层/AI编码工具/prompts/Shell命令.md",
-    "前瞻层/AI编码工具/prompts/概念解释.md",
-    "前瞻层/AI编码工具/prompts/技术文档生成.md",
-    "前瞻层/AI编码工具/prompts/代码重构.md",
-    "前瞻层/AI编码工具/prompts/MOC - Prompt收藏.md",
-    "前瞻层/AI编码工具/prompts",
-    "README.md",
-    "00-知识体系总览MOC.md",
-    "前瞻层/AI编码工具/AI编码工具对比分析.md",
-    "架构层/AI基础设施/AI-Infra核心架构/01_AI Infra架构设计概览.md",
-    "前瞻层/AI编码工具",
-    "核心层/云原生生态/Volcano/实践案例/AI训练调度.md",
-    "核心层/云原生生态/Volcano/核心概念/Queue.md"
+    "Frontier/AI-CodingTools/prompts/概念解释.md",
+    "Frontier/AI-CodingTools/prompts/技术文档生成.md",
+    "Frontier/AI-CodingTools/prompts/代码重构.md",
+    "Frontier/AI-CodingTools/prompts/代码解释.md",
+    "Frontier/AI-CodingTools/prompts/代码生成.md",
+    "Frontier/AI-CodingTools/prompts/Shell命令.md",
+    "Frontier/AI-CodingTools/prompts/MOC - Prompt收藏.md",
+    "Frontier/AI-CodingTools/prompts",
+    "Frontier/AI-CodingTools/Vibe Coding提效指南.md",
+    "Frontier/AI-CodingTools/MOC - AI编码工具.md",
+    "Frontier/AI-CodingTools/MCP协议与工具扩展.md",
+    "Frontier/AI-CodingTools/Agent与Skill演进分析.md",
+    "Frontier/AI-CodingTools/Agentic Coding实践指南.md",
+    "Frontier/AI-CodingTools/AI编码工具对比分析.md",
+    "Frontier/AI-CodingTools/Agent-MCP-Skill核心概念.md",
+    "Frontier/RAG",
+    "Frontier/MOC - 前瞻层.md",
+    "Frontier/AI-K8s-Integration",
+    "Frontier/AI-CodingTools",
+    "Frontier",
+    "Decision/TechSelection/MOC - 技术选型.md",
+    "Decision/Templates/ADR模板.md",
+    "Decision/Templates/技术选型报告模板.md",
+    "Decision/RiskAndCost/MOC - 风险与成本.md",
+    "Decision/ADR/ADR-001-容器运行时选择.md",
+    "Decision/ADR/MOC - ADR.md",
+    "Decision/ADR/ADR-004-GPU调度方案选型.md",
+    "Decision/MOC - 决策层.md",
+    "Decision/TechSelection",
+    "Decision/Templates",
+    "Decision/RiskAndCost",
+    "Decision/ADR",
+    "Decision",
+    "Architecture/AI-Infrastructure/Volcano/MOC - Volcano.md",
+    "Architecture/AI-Infrastructure/Volcano/04_拓扑感知调度实战.md",
+    "Architecture/AI-Infrastructure/Volcano/03_HyperNode配置与自动发现.md"
   ]
 }

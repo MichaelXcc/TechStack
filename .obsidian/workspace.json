@@ -11,10 +11,14 @@
             "id": "aee34637b8c56a72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "前瞻层/AI编码工具/MOC - AI编码工具.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "MOC - AI编码工具"
             }
           }
         ]
@@ -192,11 +196,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee34637b8c56a72",
+  "active": "3f14e26305f6a6f0",
   "lastOpenFiles": [
+    "决策层/模板/技术选型报告模板.md",
+    "决策层/ADR/ADR-004-GPU调度方案选型.md",
+    "决策层/ADR/ADR-001-容器运行时选择.md",
+    "决策层/模板/ADR模板.md",
+    "决策层/风险与成本/MOC - 风险与成本.md",
+    "决策层/ADR/MOC - ADR.md",
+    "决策层/技术选型/MOC - 技术选型.md",
+    "决策层/模板",
+    "决策层/风险与成本",
+    "决策层/ADR",
+    "决策层/技术选型",
+    "前瞻层/AI编码工具/Agent-MCP-Skill核心概念.md",
+    "决策层/MOC - 决策层.md",
+    "管理层/MOC - 管理层.md",
+    "决策层/技术管理",
+    "决策层/技术决策",
+    "决策层/MOC - 管理层.md",
+    "决策层/团队建设",
+    "决策层",
+    "前瞻层/AI编码工具/Vibe Coding提效指南.md",
     "前瞻层/AI编码工具/prompts/代码生成.md",
     "前瞻层/AI编码工具/prompts/代码解释.md",
-    "前瞻层/AI编码工具/Vibe Coding提效指南.md",
     "前瞻层/AI编码工具/prompts/Shell命令.md",
     "前瞻层/AI编码工具/prompts/概念解释.md",
     "前瞻层/AI编码工具/prompts/技术文档生成.md",
@@ -205,30 +228,11 @@
     "前瞻层/AI编码工具/prompts",
     "README.md",
     "00-知识体系总览MOC.md",
-    "管理层/MOC - 管理层.md",
-    "前瞻层/AI编码工具/Agent-MCP-Skill核心概念.md",
     "前瞻层/AI编码工具/MOC - AI编码工具.md",
     "前瞻层/AI编码工具/AI编码工具对比分析.md",
     "架构层/AI基础设施/AI-Infra核心架构/01_AI Infra架构设计概览.md",
     "前瞻层/AI编码工具",
-    "my-test",
     "核心层/云原生生态/Volcano/实践案例/AI训练调度.md",
-    "核心层/云原生生态/Volcano/核心概念/Queue.md",
-    "架构层/AI基础设施/Volcano/04_拓扑感知调度实战.md",
-    "架构层/AI基础设施/Volcano/03_HyperNode配置与自动发现.md",
-    "架构层/AI基础设施/Volcano/02_网络拓扑感知调度原理.md",
-    "架构层/AI基础设施/Volcano/01_Volcano概述与核心概念.md",
-    "架构层/AI基础设施/Volcano/MOC - Volcano.md",
-    "架构层/AI基础设施/Volcano",
-    "架构层/AI基础设施/HAMi/06_HAMi实战案例.md",
-    "架构层/AI基础设施/HAMi/05_HAMi调度策略.md",
-    "架构层/AI基础设施/HAMi/04_GPU资源隔离与共享.md",
-    "架构层/AI基础设施/HAMi/03_HAMi安装与配置.md",
-    "架构层/AI基础设施/HAMi",
-    "架构层/AI基础设施/Ray",
-    "架构层/AI基础设施",
-    "Kubernetes/网络",
-    "Kubernetes",
-    "核心层/Kubernetes/存储"
+    "核心层/云原生生态/Volcano/核心概念/Queue.md"
   ]
 }

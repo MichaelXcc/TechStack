@@ -198,6 +198,11 @@
   },
   "active": "aee34637b8c56a72",
   "lastOpenFiles": [
+    "Frontier/LLM-Philosophy/The-Essence-of-LLM.md",
+    "Frontier/LLM-Philosophy",
+    "Architecture/AI-Infrastructure/InferenceServing/DeepSeek-H20-Benchmark-Report.md",
+    "Architecture/AI-Infrastructure/InferenceServing/DeepSeek-H20-Benchmark-Scripts.md",
+    "Architecture/AI-Infrastructure/InferenceServing/DeepSeek-H20-Benchmark-TestCases.md",
     "Frontier/AI-CodingTools/Agentic Coding实践指南.md",
     "Frontier/AI-CodingTools/AI编码工具对比分析.md",
     "Frontier/AI-CodingTools/AI编码工具ROI分析报告.md",
@@ -225,14 +230,9 @@
     "Frontier",
     "Decision/TechSelection/MOC - 技术选型.md",
     "Decision/Templates/ADR模板.md",
-    "Decision/Templates/技术选型报告模板.md",
-    "Decision/RiskAndCost/MOC - 风险与成本.md",
-    "Decision/ADR/ADR-001-容器运行时选择.md",
-    "Decision/ADR/MOC - ADR.md",
     "Decision/TechSelection",
     "Decision/Templates",
     "Decision/RiskAndCost",
-    "Decision/ADR",
-    "Decision"
+    "Decision/ADR"
   ]
 }

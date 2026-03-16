@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "134ff4afe74d183c",
+        "id": "85519bc3e7058f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "deba88813819fb86",
+            "id": "154c37abeb07ca14",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -191,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deba88813819fb86",
+  "active": "154c37abeb07ca14",
   "lastOpenFiles": [
     "Core/Sglang/05-性能优化技术.md",
     "Core/Sglang/MOC - SGLang.md",
